@@ -6,24 +6,29 @@ Estudiante de **Ingeniería en Informática** en Duoc UC (Chile). Me interesa el
 
 - **Backend:** Java, Spring Boot, Spring Security, JPA, Flyway, microservicios
 - **Frontend:** TypeScript, React, Vite, Tailwind CSS
+- **CMS y e-commerce:** WordPress, WooCommerce
 - **Móvil:** Kotlin, Jetpack Compose, Room
-- **Datos:** PostgreSQL, Oracle, SQL
+- **Datos:** PostgreSQL, MongoDB, Oracle, SQL
 - **Nube y herramientas:** AWS (Cognito, EC2, API Gateway), Docker, GitHub Actions, Vercel, Git
 - **Otros:** Python
 
 ## Proyectos destacados
 
+### Sitios web para clientes
+
 | Proyecto | Qué es | Tecnologías |
 | --- | --- | --- |
-| [SyncPass API](https://github.com/Mario-Melendez-Inostroza/syncpass-api) | Backend REST para registro de asistencia en terreno, con roles, sincronización por lotes idempotente, CI y despliegue en AWS | Java 21, Spring Boot, Cognito, PostgreSQL |
+| [Rey del Lápiz](https://github.com/Mario-Melendez-Inostroza/Rey-del-Lapiz-Web-Site) | Landing profesional para un caricaturista en vivo, orientada a generar reservas por WhatsApp | React, TypeScript, Vite, Tailwind |
+| [Pro Security Systems](https://github.com/Mario-Melendez-Inostroza/Security-Integral-Web) | Sitio de cercos eléctricos, portones, cámaras y control de acceso ([ver en vivo](https://pro-security-systems.vercel.app/)) | React, TypeScript, Tailwind |
+| [Refrizer](https://github.com/Mario-Melendez-Inostroza/Refrizer-Web) | Sitio de refrigeración y electricidad ([ver en vivo](https://refrizer-web.vercel.app/)) | React, TypeScript, Tailwind |
+| [Visionary Enterprises](https://github.com/Mario-Melendez-Inostroza/Acrilicos-Web) | Sitio de planchas de acrílico, ABS y Lamicoid ([ver en vivo](https://acrilicos-web.vercel.app/)) | React, TypeScript, Tailwind |
+| [Soluciones Integrales M&N](https://github.com/Mario-Melendez-Inostroza/Climatizacion-Web) | Gasfitería, climatización y electricidad ([ver en vivo](https://climatizacion-web.vercel.app/)) | React, TypeScript, Tailwind |
+
+### Proyectos académicos (datos ficticios)
+
+| Proyecto | Qué es | Tecnologías |
+| --- | --- | --- |
+| [SyncPass API](https://github.com/Mario-Melendez-Inostroza/syncpass-api) | Backend REST para registro de asistencia en terreno: roles, sincronización por lotes idempotente, CI y despliegue en AWS | Java 21, Spring Boot, Cognito, PostgreSQL |
 | [SyncPass Mobile](https://github.com/Mario-Melendez-Inostroza/syncpass-mobile) | App Android offline-first para monitores en terreno | Kotlin, Compose, Room, WorkManager |
 | [SyncPass Web](https://github.com/Mario-Melendez-Inostroza/syncpass-web) | Panel web del coordinador | React, TypeScript, Vite |
 | [Proyecto Ferretería](https://github.com/Mario-Melendez-Inostroza/Proyecto-Ferreteria) | Sistema de gestión para una ferretería con arquitectura de microservicios | Java, Spring Boot, Eureka, API Gateway, Docker |
-| [Refrizer](https://github.com/Mario-Melendez-Inostroza/Refrizer-Web) | Sitio web para una empresa de refrigeración y electricidad ([ver en vivo](https://refrizer-web.vercel.app/)) | React, TypeScript, Tailwind |
-| [MM Digital Solutions](https://github.com/Mario-Melendez-Inostroza/MM-Digitals-Solutions-WebSite) | Sitio de mi emprendimiento ([ver en vivo](https://mm-digitals-solutions-web-site.vercel.app/)) | React, TypeScript, Motion |
-
-> SyncPass y la ferretería son proyectos académicos con datos ficticios.
-
-## Cómo trabajo
-
-Uso Claude Code como asistente de programación, con contexto, reglas y verificación en archivos del propio repositorio (ver el README de SyncPass API). Reviso lo que se genera y soy responsable de lo que entrego.
