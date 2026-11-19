@@ -11,6 +11,7 @@ Estudiante de **Ingeniería en Informática** en Duoc UC (Chile). Me interesa el
 - **Datos:** PostgreSQL, MongoDB, Oracle, SQL
 - **Nube y herramientas:** AWS (Cognito, EC2, API Gateway), Docker, GitHub Actions, Vercel, Git
 - **Otros:** Python
+- **Metodologías ágiles:** Scrum, Kanban, sprints, historias de usuario, backlog y roadmap; trabajo con Git, ramas y pull requests
 
 ## Proyectos destacados
 
