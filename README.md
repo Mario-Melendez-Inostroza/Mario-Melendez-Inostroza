@@ -1,6 +1,6 @@
 # Hola, soy Mario Meléndez 👋
 
-Estudiante de **Ingeniería en Informática** en Duoc UC (Chile). Me interesa el desarrollo full stack: construyo APIs, apps móviles y sitios web para pequeñas y medianas empresas bajo **MM Digital Solutions**.
+Estudiante de **Ingeniería en Informática** en Duoc UC (Chile). Me interesa y apasiona  el desarrollo full stack: construyo APIs, apps móviles y sitios web para pequeñas y medianas empresas bajo **MM Digital Solutions**.
 
 ## Stack
 
